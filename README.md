@@ -7,5 +7,5 @@ Group members are:
 5. Victor Munene    -     SCT212-0332/2023
 6. Walter Simon     –     SCT212-0429/2023
 7. Eugene Kipkoech  –     SCT212-0477/2023
-8.Mathews Omondi    –     SCT212-0077/2021
-9.Austin Kanja      -     SCT212-0493/2023
+8. Mathews Omondi   –     SCT212-0077/2021
+9. Austin Kanja     -     SCT212-0493/2023
